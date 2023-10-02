@@ -1,0 +1,60 @@
+.wrapper {
+    height: 525px;
+    width: 360px;
+    color: white;
+    background: #272639;
+    border-radius: 1rem;
+    padding: 1.2rem;
+    margin: 100px auto;
+}
+
+#topContainer,
+#middle,
+#bottom{
+    margin-top: 4rem;
+}
+
+.container {
+    margin-top: 1.4rem;
+}
+
+.title {
+    font-weight:  bold;
+    margin-bottom: 0.6rem;
+}
+
+.inputContainer {
+    background: #353959;
+    border-radius: 1.4rem;
+    padding: 0 0.8rem;
+    display: flex;
+    align-items: center;
+}
+
+#desiredGrade,
+#currentGrade,
+#weightGrade {
+    font-size: 1.2rem;
+    background: none;
+    border: none;
+    outline: none;
+}
+
+/*#bottom*/
+
+.totalContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+
+.total {
+    font-size: 2rem;
+}
+
+#needed{
+    font-size: 1.2rem;
+    background: none;
+    border: none;
+    outline: none;
+}
