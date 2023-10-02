@@ -26,5 +26,5 @@ let calculateGrade = () => {
     let current = Number(currentInput);
     let total = desired - final * current;
     let needed = total / final;
-    needed.innerText = `${needed.toFixed(2)}`
-}
+    // needed.innerText = `${needed.toFixed(2)}`;
+};

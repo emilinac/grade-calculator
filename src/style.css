@@ -10,7 +10,7 @@
 
 #topContainer,
 #middle,
-#bottom{
+#botom {
     margin-top: 4rem;
 }
 
@@ -40,7 +40,9 @@
     outline: none;
 }
 
-/*#bottom*/
+#bottom {
+
+}
 
 .totalContainer{
     display: flex;
@@ -58,3 +60,11 @@
     border: none;
     outline: none;
 }
+
+.buttonText {
+    color: #353959 !important;
+}
+
+/*.calculate {*/
+/*    font-size: ;*/
+/*}*/
