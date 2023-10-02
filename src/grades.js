@@ -28,3 +28,5 @@ let calculateGrade = () => {
     let needed = total / final;
     // needed.innerText = `${needed.toFixed(2)}`;
 };
+
+//comit
