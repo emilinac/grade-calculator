@@ -40,8 +40,8 @@
     outline: none;
 }
 
-#bottom {
-
+#calculateButton {
+    margin-top: 4rem;
 }
 
 .totalContainer{
@@ -54,7 +54,7 @@
     font-size: 2rem;
 }
 
-#needed{
+#neededGrade{
     font-size: 1.2rem;
     background: none;
     border: none;
