@@ -1,8 +1,8 @@
 .wrapper {
     height: 525px;
     width: 360px;
-    color: white;
-    background: #272639;
+    color: #869D72;
+    background: #67604E;
     border-radius: 1rem;
     padding: 1.2rem;
     margin: 100px auto;
@@ -24,7 +24,7 @@
 }
 
 .inputContainer {
-    background: #353959;
+    background: #D5DBBF;
     border-radius: 1.4rem;
     padding: 0 0.8rem;
     display: flex;
@@ -40,8 +40,8 @@
     outline: none;
 }
 
-#bottom {
-
+#calculateButton {
+    margin-top: 4rem;
 }
 
 .totalContainer{
@@ -51,20 +51,16 @@
 }
 
 .total {
-    font-size: 2rem;
+    font-size: 4rem;
+    align-items: center;
+    margin: auto;
+    padding: 25px;
 }
 
-#needed{
+#neededGrade{
     font-size: 1.2rem;
     background: none;
     border: none;
     outline: none;
 }
 
-.buttonText {
-    color: #353959 !important;
-}
-
-/*.calculate {*/
-/*    font-size: ;*/
-/*}*/
